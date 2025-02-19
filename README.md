@@ -4,7 +4,7 @@ Welcome to my GitHub profile! My name is Alexandre Andrade and I am a Software D
 I’m passionate about solving problems, constantly seeking new challenges and finding creative, enjoyable ways to tackle them!
 
 [![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandre-A)
-[![linkedin](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-andrade-487b07351/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-andrade-/)
 [![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aandrade2005)
 [![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandre.andrade.123276)
 [![kaggle](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alexandrea05)
