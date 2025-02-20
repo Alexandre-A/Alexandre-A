@@ -8,7 +8,7 @@ I’m passionate about solving problems, constantly seeking new challenges and f
 [![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aandrade2005)
 [![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandre.andrade.123276)
 [![kaggle](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alexandrea05)
-[![email](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandreandrade@ua.pt)
+[![email](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aandrade2005@live.com.pt)
 
 
 <br/>  
